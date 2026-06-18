@@ -163,15 +163,15 @@ Examples of findings observed through Wazuh include:
 
 ### Wazuh Dashboard
 
-*Add screenshot here*
+![wazuh dashboard](assets/wazuh%20dashboard.png)
 
-### Security Configuration Assessment Findings
+### MITRE ATT&CK ID Mapping
 
-*Add screenshot here*
+![mitre mapping](assets/mitre%20mapping.png)
 
 ### File Integrity Monitoring Events
 
-*Add screenshot here*
+![file integrity](assets/file%20integrity%20logs.png)
 
 ### Security Events Report
 
