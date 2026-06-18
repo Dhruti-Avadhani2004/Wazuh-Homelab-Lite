@@ -194,7 +194,5 @@ Through this lab, I gained hands-on experience with:
 ---
 
 ## Author
-
 Dhruti Avadhani
 
-Cybersecurity Student | Security Operations | Application Security | Cloud Security
