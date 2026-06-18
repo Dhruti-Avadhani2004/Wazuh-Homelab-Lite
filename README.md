@@ -175,7 +175,7 @@ Examples of findings observed through Wazuh include:
 
 ### Security Events Report
 
-!(./assets/security events.png)[security events]
+![security events](/assets/security events.png)
 
 ---
 
